@@ -1,0 +1,106 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to right, #555554, #615e5b, #bbb6b8, #bbb6b8, #555554);
+
+}
+
+.mainicon{
+    max-height: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.unicon {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    
+  
+}
+
+.fb{
+    float: left;
+    padding: left 0px;
+    margin-right:  10px;
+}
+.fb:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.ig{
+    float: left; 
+    margin-right:  40px;   
+}
+.ig:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.messenger{
+    float: left;   
+    margin-right:  40px; 
+}
+.messenger:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.youtube{
+    float: left;
+    margin-right:  20px;
+}
+.youtube:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.Logo_white_stroke{
+    float: left; 
+    margin-right:  20px;   
+}
+.Logo_white_stroke:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.tiktoks{
+    float: left;  
+    margin-right:  20px;
+}
+.tiktoks:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.Pinterest{
+    float: left; 
+    margin-right:  20px;  
+}
+.Pinterest:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.gmail{
+    float: left;
+    margin-right:  20px;   
+}
+.gmail:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+.emil:hover{
+  
+    scale: 1.5;
+    transition: .40s;
+}
+.call{
+    font-family: Tahoma;
+    color:#0a3734 ;
+}
+.phone{
+    text-decoration: none; 
+    color: #ef870b;    
+}
+.phone:hover{
+    scale: 1.5;
+    transition: .40s;
+}
